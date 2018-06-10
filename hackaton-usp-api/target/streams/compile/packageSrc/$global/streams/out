@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/target/scala-2.12/hackaton-usp-api_2.12-1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/OccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/model/OccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/OccupationRepresentation.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/out/OccupationRepresentation.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/OccupationController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/controllers/OccupationController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/controllers/HomeController.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	config/MongoConfig.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/config/MongoConfig.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/OccupationInfo.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/out/OccupationInfo.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/APIResponse.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/out/APIResponse.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/DateUtil.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/util/DateUtil.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/conf/routes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/conf/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/OccupationService.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/service/OccupationService.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/EstimatedOccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/model/EstimatedOccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/conf/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/CollectedOccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/model/CollectedOccupationData.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	out/ApiStatus.java[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/eduardolopes/workspace/hackatonUsp/hackaton-usp-api/app/out/ApiStatus.java[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,1 @@
+web: target/universal/stage/bin/hackaton-usp-api -Dhttp.port=${PORT} -Dconfig.file=conf/application.conf -Dmongodb.uri=$MONGODB_URI
